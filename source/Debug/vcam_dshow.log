@@ -1,0 +1,11 @@
+﻿D:\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (dll1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\vcam_dshow-master\source\src\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1274,5): warning MSB8012: TargetPath(D:\vcam_dshow-master\source\Debug\vcam_dshow.dll) does not match the Linker's OutputFile property value (D:\vcam_dshow-master\bin\vcam_dshow.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+main.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+./src/vcamera.def : warning LNK4104: 导出符号“DllCanUnloadNow”应为 PRIVATE
+./src/vcamera.def : warning LNK4104: 导出符号“DllGetClassObject”应为 PRIVATE
+./src/vcamera.def : warning LNK4104: 导出符号“DllRegisterServer”应为 PRIVATE
+./src/vcamera.def : warning LNK4104: 导出符号“DllUnregisterServer”应为 PRIVATE
+    正在创建库 D:\vcam_dshow-master\source\Debug\vcam_dshow.lib 和对象 D:\vcam_dshow-master\source\Debug\vcam_dshow.exp
+  vcam_dshow.vcxproj -> D:\vcam_dshow-master\source\Debug\vcam_dshow.dll
