@@ -1,16 +1,4 @@
-ÕâÊÇ»ùÓÚDirectShowµÄÐéÄâÉãÏñÍ·Çý¶¯Ô´´úÂë¹¤³Ì£¬
-´Ë¹¤³Ì²ÉÓÃ´ÓÁã¿ª·¢£¬²ÉÓÃ·Ç³£Ô­Ê¼µÄ·½·¨ÊµÏÖCOM»ù´¡×é¼þºÍIBaseFilter£¬IPinµÈ½Ó¿Ú¹¦ÄÜ¡£
-²»ÒÀÀµ DSHOWµÄSDK¿â¾Í¿ÉÒÔ±àÒëÔËÐÐ£¬ ±¾´úÂë¹¤³ÌÊ¹ÓÃVS2015±àÒë¡£
+ä¸»è¦ç”¨é€”ï¼šæ‘„åƒå¤´æ‰‹ åŠ¨ ä¸‹ 
 
-Èç¹ûÄã²»Ï²»¶£¬»òÕß²»ÏëÈ¥ÁË½âDirectShowµÄ¹¤×÷Ô­Àí£¬
-´ó¿É²»±ØÀí»áÎÒÕâÖÖ±È½Ï¡°·è¿ñ¡±µÄ×ö·¨£¬Ò²²»±ØÏÂÔØÎÒµÄÕâ·Ý´úÂë¸øÄãÆ½ÌíÎÞÎ½µÄ·³ÄÕ¡£
-
-sourceÄ¿Â¼ÊÇ¹¤³ÌÄ¿Â¼£¬
-binÊÇÒÑ¾­±àÒëºÃµÄdll£¬¿ÉÒÔµ÷ÓÃregister.bat×¢²á£¬µ÷ÓÃunregister.bat×¢Ïú.
-×¢²á³É¹¦ºó£¬Ê¹ÓÃDirectShow¿ò¼ÜµÄ³ÌÐò¾Í¿ÉÒÔ·¢ÏÖ²¢·ÃÎÊÕâ¸öÐéÄâÉãÏñÍ·£¬±ÈÈçQQ£¬amcapµÈ¡£
-
-±¾¹¤³ÌÏêÏ¸Ô­Àí½éÉÜ£¬Çë¿´ÈçÏÂÁ´½Ó£º
-https://blog.csdn.net/fanxiushu/article/details/79830750
-
-Fanxiushu 2018
+cxchhh 2020
 
